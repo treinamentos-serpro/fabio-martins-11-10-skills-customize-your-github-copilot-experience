@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-quiz",
+      "title": "Quiz de Programação",
+      "description": "Guardar perguntas em listas e dicionários, percorrê-las com loops e tratar entradas inválidas com try/except",
+      "path": "assignments/python-quiz",
+      "dueDate": "2026-11-17"
     }
   ]
 }
